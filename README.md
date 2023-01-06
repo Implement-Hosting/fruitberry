@@ -1,5 +1,5 @@
-[Logo](https://cdn.discordapp.com/attachments/1060618111482601583/1061002434618597468/fb_banner.png)
-A simple DiscordJS v12 handler
+![Logo](https://i.ibb.co/sPtN580/fb-banner.png)
+<br>
 
 # Why FruitBurry?
 ✅ It works
@@ -8,3 +8,8 @@ A simple DiscordJS v12 handler
 ✅ tho it has arguments
 ✅ and command categories
 ✅ and well... it works
+
+# Features
+💫 Arguments 
+📁 Command folder categories
+📀 Typical ping command

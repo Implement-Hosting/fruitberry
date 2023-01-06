@@ -2,14 +2,14 @@
 <br>
 
 # Why FruitBurry?
-✅ It works
-✅ uhhh it work
-❌ it doesnt have many features yet
-✅ tho it has arguments
-✅ and command categories
-✅ and well... it works
+###✅ It works
+###✅ uhhh it work
+###❌ it doesnt have many features yet
+###✅ tho it has arguments
+###✅ and command categories
+###✅ and well... it works
 
 # Features
-💫 Arguments 
-📁 Command folder categories
-📀 Typical ping command
+###💫 Arguments 
+###📁 Command folder categories
+###📀 Typical ping command
